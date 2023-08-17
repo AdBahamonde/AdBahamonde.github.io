@@ -1,7 +1,6 @@
 
 ## About me 
 I'm currently a Research assistant at INCAR (Interdisciplinary center for Aquiculture Research), where I work on the application of tools from dynamical systems theory to the investigation of the spread of diseases in the aquaculture industry. We are currently also interested on the role of turbulence in the emergence of red tides. 
-
 My main research interest is on the fundamental aspects of turbulence, in particular on the emergence of universal small scale statistics in the transition to turbulence and the physical mechanisms behind this phenomena. I'm currently working on the application of tools from information theory to the investigation of turbulent flows. 
 
 ## Research interests

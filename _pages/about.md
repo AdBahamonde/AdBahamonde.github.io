@@ -13,7 +13,7 @@ I am a Mechanical Engineering from Chile, later I finished a MsC in physics. I a
 My main research interest is hydrodynamic turbulence. On this topic I am particularly interested in the application of information theory to investigate the emergence of universal statistics in the transition to turbulence. 
 
 ---
-   title: "Publications"
+  "Publications"
 ---
 
 - Laminar to turbulent transition in terms of information theory - 10.1016/j.physa.2023.129190 

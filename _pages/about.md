@@ -12,9 +12,18 @@ I am a Mechanical Engineering from Chile, later I finished a MsC in physics. I a
 
 My main research interest is hydrodynamic turbulence. On this topic I am particularly interested in the application of information theory to investigate the emergence of universal statistics in the transition to turbulence. 
 
+---
+permalink: /
+title: "Publications"
+excerpt: "Publications"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Laminar to turbulent transition in terms of information theory - 10.1016/j.physa.2023.129190 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Usefulness and limitations of convergent cross sorting and continuity scaling methods for their application in simulated and real-world time series
+
+

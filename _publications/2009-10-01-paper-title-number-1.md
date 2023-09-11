@@ -1,7 +1,7 @@
 ---
 title: "Laminar to turbulent transition in terms of information theory"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'

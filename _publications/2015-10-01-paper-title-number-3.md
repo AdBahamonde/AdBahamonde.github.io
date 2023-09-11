@@ -10,6 +10,6 @@ citation: 'Adolfo D. Bahamonde, Pablo Cornejo, Hector H. Sepulveda. (2023). &quo
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)
+[Find paper here](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)
 
 Recommended citation: Adolfo D. Bahamonde, Pablo Cornejo, Hector H. Sepulveda. (2023). "Laminar to turbulent transition in terms of information theory" <i>Physica A: Statistical Mechanics and its Applications</i>. 1(2).

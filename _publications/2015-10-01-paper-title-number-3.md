@@ -10,6 +10,6 @@ citation: 'Adolfo D. Bahamonde, Pablo Cornejo, Hector H. Sepulveda. (2023). &quo
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
